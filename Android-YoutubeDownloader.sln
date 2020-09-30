@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android-YoutubeDownloader.Android", "Android-YoutubeDownloader\Android-YoutubeDownloader.Android\Android-YoutubeDownloader.Android.csproj", "{D7034346-A914-4DB5-B779-43F9FCF80C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android-YoutubeDownloader", "Android-YoutubeDownloader\Android-YoutubeDownloader\Android-YoutubeDownloader.csproj", "{CC2B8223-F447-4F22-B974-20D6C3C9BA65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7034346-A914-4DB5-B779-43F9FCF80C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7034346-A914-4DB5-B779-43F9FCF80C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7034346-A914-4DB5-B779-43F9FCF80C8D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D7034346-A914-4DB5-B779-43F9FCF80C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7034346-A914-4DB5-B779-43F9FCF80C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7034346-A914-4DB5-B779-43F9FCF80C8D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CC2B8223-F447-4F22-B974-20D6C3C9BA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2B8223-F447-4F22-B974-20D6C3C9BA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2B8223-F447-4F22-B974-20D6C3C9BA65}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CC2B8223-F447-4F22-B974-20D6C3C9BA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2B8223-F447-4F22-B974-20D6C3C9BA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2B8223-F447-4F22-B974-20D6C3C9BA65}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC8B21AB-7657-4AF0-BE77-45F3A2AEDF87}
+	EndGlobalSection
+EndGlobal
